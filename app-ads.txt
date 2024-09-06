@@ -1,2 +1,3 @@
-# Pixel Five app-ads.txt file
+# Funtoplay app-ads.txt file
 google.com, pub-1380662475535927, DIRECT, f08c47fec0942fa0
+chartboost.com,123,DIRECT
